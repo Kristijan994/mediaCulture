@@ -1,0 +1,118 @@
+/*Final CSS by KP*/
+
+
+@media screen and (max-width: 3000px) and (min-width: 990px) {
+  		a.homeBtn {
+  			margin-top:-50px;
+  		}
+}
+
+
+@media screen and (max-width: 3000px) and (min-width: 1700px) {
+  		div#aboutPage {
+  			position:relative;
+  			top:200px;
+  		}
+}
+
+
+/*Desktop | vid & button responsiveness*/
+@media screen and (max-width: 3000px) and (min-width: 1672px) {
+      div.centered {
+        margin-top:-55px;
+      }
+
+      video.video {
+        overflow: hidden;
+        margin-top:-100px;
+      }
+}
+
+
+
+/*Homepage Scroll Button responsiveness*/
+@media screen and (max-width: 1670px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-75px;
+  		}
+}
+
+
+@media screen and (max-width: 1533px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-150px;
+  		}
+}
+
+/*15-inch Laptop*/
+@media screen and (max-width: 1700px) and (min-width: 1300px) {
+      div.centered {
+        margin-top:-280px;
+      }
+
+      video.video {
+        overflow: hidden;
+        margin-top:-65px;
+      }
+}
+
+@media screen and (max-width: 1275px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-300px;
+  		}
+}
+
+@media screen and (max-width: 1117px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-375px;
+  		}
+}
+
+@media screen and (max-width: 985px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-450px;
+  		}
+}
+
+@media screen and (max-width: 850px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-525px;
+  		}
+}
+
+@media screen and (max-width: 716px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-600px;
+  		}
+}
+
+
+@media screen and (max-width: 579px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-675px;
+  			font-size:10px;
+  		}
+}
+
+
+@media screen and (max-width: 437px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-700px;
+  			font-size:10px;
+  		}
+}
+
+
+@media screen and (max-width: 393px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-725px;
+  			font-size:10px;
+  		}
+}
+
+@media screen and (max-width: 339px) and (min-width: 1px) {
+  		div.centered {
+  			margin-top:-743px;
+  			font-size:10px;
+  		}
+}
